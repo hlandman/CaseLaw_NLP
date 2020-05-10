@@ -1,4 +1,4 @@
-# CaseLaw_NLP
+# NLP for Case Law
 **Extractive and Abstractive Methods for Case Law Summarization**
 
 The scope of this project is to produce automated summarization of Case Law by utilizing extractive and abstractive NLP models. <a href=https://en.wikipedia.org/wiki/Case_law>Case law</a> is a collection of legal decisions that are used to determine legal precedents for future cases. 
